@@ -4,9 +4,9 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
+- Họ và tên: Vũ Đức Minh
+- Mã học viên: 2A202602895
+- Nhóm: E1
 - Candidate problem nhóm chọn:
 
 ---
