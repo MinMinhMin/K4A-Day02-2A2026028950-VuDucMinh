@@ -31,16 +31,16 @@
 | 5 | Pain từ người khác | Thành viên thường hỏi lại ai phụ trách việc gì và deadline là khi nào | Các thành viên trong nhóm | Có khoảng 3–5 câu hỏi lặp lại mỗi tuần trong nhóm chat |
 | 6 | Lặp lại | Sắp xếp lịch họp nhóm phù hợp với thời gian rảnh của mọi người | Trưởng nhóm và thành viên | Mỗi tuần cần sắp xếp 1–2 buổi, mất khoảng 10–20 phút |
 | 7 | Tốn thời gian | Kiểm tra bài báo cáo có thiếu mục hoặc sai format theo rubric không | Người viết và người nộp bài | Mỗi lần nộp mất khoảng 15–20 phút kiểm tra; thường phải sửa 1–2 lần |
-| 8 | AI có thể tốt hơn | Tóm tắt slide, video bài giảng và ghi chú thành nội dung ôn tập | Sinh viên | Có 2–3 môn cần ôn mỗi tuần, mất khoảng 45–90 phút/môn |
+| 8 | Tốn thời gian / AI có thể tốt hơn | Học viên toàn thời gian phải đọc trước 50–100 trang slide của lab và lecture vào mỗi tối nhưng thường không kịp trong khoảng 2 tiếng | Học viên toàn thời gian trong chương trình AI thực chiến | Xảy ra hằng ngày trước buổi học; khối lượng 50–100 trang vượt quỹ khoảng 2 tiếng, chưa tính thời gian chờ tải và tra cứu |
 | 9 | Tốn thời gian | Tìm nguồn tham khảo và trích dẫn phù hợp cho báo cáo hoặc đồ án | Sinh viên làm báo cáo | Mỗi tuần mất khoảng 1–2 giờ, phải xem 5–10 nguồn |
 | 10 | Lặp lại | Gộp nội dung từ nhiều thành viên thành một file báo cáo hoặc slide thống nhất | Người tổng hợp | Mỗi đồ án có 2–4 lần chỉnh sửa, mỗi lần mất khoảng 30–60 phút |
 
 > Gợi ý tự soi: tuần trước mất nhiều thời gian nhất vào việc gì? Việc gì hay trì hoãn? Người khác hay hỏi lại câu gì? Workflow nào ai cũng biết là chậm?
 
 **AI đã dùng ở Phase 1 (nếu có):**
-- Prompt đã hỏi:
-- Ý dùng được:
-- Ý bỏ vì không phải pain thật:
+- Prompt đã hỏi: Không dùng AI ở Phase 1; tôi tự scan từ trải nghiệm đi xe buýt, học tập, nghiên cứu và làm project nhóm.
+- Ý dùng được: Không có ý AI-generated được sử dụng ở Phase 1.
+- Ý bỏ vì không phải pain thật: Không có; các problem được giữ lại đều cần kiểm chứng thêm bằng số liệu thực tế.
 
 **Self-check Phase 1:**
 - [x] Đủ 5+ dòng, mỗi dòng có actor + số đo cụ thể
@@ -58,7 +58,7 @@ Giữ bài nào: actor cụ thể, workflow vẽ được 3-7 bước, bottlenec
 | Rank | Problem (copy từ bảng scan) | Vì sao chọn (2-3 ý) | Điều còn chưa chắc |
 |---|---|---|---|
 | 1 | Thắc mắc về địa điểm với tài xế khi đi bus | Actor khá cụ thể; có thể vẽ workflow hỏi và xác nhận điểm xuống; vấn đề ảnh hưởng trực tiếp đến khả năng tự đi xe buýt của người cao tuổi | Chưa có số liệu chính xác về số lần hỏi lại, thời gian chờ và số trường hợp lỡ điểm |
-| 2 | Tóm tắt slide, video bài giảng và ghi chú thành nội dung ôn tập | Xảy ra thường xuyên ở nhiều môn; workflow gồm nhiều nguồn tài liệu; thời gian đọc và tổng hợp có thể đo được | Cần kiểm chứng bản tóm tắt có giữ đủ ý quan trọng và giúp ôn tập tốt hơn không |
+| 2 | Học viên toàn thời gian phải đọc trước 50–100 trang slide mỗi tối nhưng thường không kịp trong khoảng 2 tiếng | Actor, khối lượng tài liệu và quỹ thời gian đều cụ thể; workflow lặp lại hằng ngày; impact có thể đo bằng số trang, số phút và mức nắm ý chính | Cần kiểm chứng mức độ phổ biến ngoài nhóm và bản tóm tắt AI có giữ đủ ý quan trọng hay không |
 | 3 | Tìm nguồn tham khảo và trích dẫn phù hợp cho báo cáo hoặc đồ án | Có bottleneck rõ ở bước lọc nguồn; impact là thời gian làm báo cáo; có thể so sánh tìm thủ công với workflow có AI hỗ trợ | Chưa chắc AI có tìm được nguồn học thuật đáng tin và trích dẫn đúng hay không |
 
 ### 2.2. Problem Cards chi tiết (lặp lại cho cả 3 cards)
@@ -132,31 +132,31 @@ File đính kèm (nếu vẽ riêng): `01-individual-problem-scan-workflow-card-
 
 ---
 
-#### Problem Card #2 — Tóm tắt tài liệu ôn tập
+#### Problem Card #2 — Đọc trước slide quá tải mỗi tối
 
 ```text
-Problem 1 câu: Sinh viên mất nhiều thời gian biến slide, video bài giảng và ghi chú rời rạc thành nội dung ôn tập có cấu trúc.
+Problem 1 câu: Học viên toàn thời gian mỗi tối chỉ có khoảng 2 tiếng nhưng phải đọc trước 50–100 trang slide của lab và lecture ngày hôm sau, nên thường không kịp và vào buổi học bị động.
 
-Actor: Sinh viên năm cuối UET.
+Actor: Học viên toàn thời gian trong chương trình AI thực chiến.
 
-Thời điểm / bối cảnh: Trước buổi kiểm tra, deadline bài tập hoặc khi cần ôn lại kiến thức của 2–3 môn trong tuần.
+Thời điểm / bối cảnh: Mỗi tối trước buổi lab hoặc lecture ngày hôm sau; tài liệu được xem trên Vlearn và có thể gồm 50–100 trang slide.
 
 Current workflow 3-7 bước:
-1. Tập hợp slide, video bài giảng và ghi chú.
-2. Đọc hoặc xem lại từng nguồn.
-3. Ghi các ý chính và khái niệm quan trọng.
-4. Gộp nội dung thành đề cương ôn tập.
-5. Đọc lại và kiểm tra các ý còn thiếu.
+1. Đăng nhập Vlearn và mở tài liệu của buổi học hôm sau.
+2. Chờ slide tải hoặc xử lý lỗi/lag.
+3. Đọc word-by-word 50–100 trang slide.
+4. Tra cứu các phần khó hiểu.
+5. Ghi chú các ý đã hiểu và chuẩn bị câu hỏi cho buổi học.
 
-Bottleneck: Chọn lọc và sắp xếp ý chính từ nhiều nguồn; bước này dễ bị lặp lại hoặc bỏ sót nội dung.
+Bottleneck: Đọc dàn trải 50–100 trang sau thời gian chờ tải; khối lượng đọc vượt quỹ khoảng 2 tiếng nên học viên không kịp hoặc chỉ đọc hời hợt.
 
-Impact: Mất khoảng 45–90 phút cho mỗi môn, tương đương 90–270 phút mỗi tuần; thời gian dành cho luyện bài bị giảm.
+Impact: Mỗi tối học viên mất hơn 120 phút nhưng vẫn có thể chưa nắm được ý chính; vào buổi học bị động và giảm thời gian cho bài tập hoặc nghỉ ngơi.
 
-Success metric: Giảm thời gian tổng hợp từ 45–90 phút xuống 20–30 phút/môn; bản tóm tắt được đối chiếu với tài liệu gốc và không bỏ sót các mục trong đề cương.
+Success metric: Giảm thời gian chuẩn bị từ hơn 120 phút xuống khoảng 45 phút; đo thêm tỷ lệ ý chính/keyword nắm được khi đối chiếu với slide gốc và số lỗi hoặc ý bị thiếu trong bản tóm tắt.
 
-Non-AI alternative: Sử dụng template đề cương cố định, tự đánh dấu timestamp/trang tài liệu quan trọng.
+Non-AI alternative: Tải slide trước, đọc theo tiêu đề/keyword bằng checklist cố định và giới hạn thời gian cho từng phần.
 
-AI hypothesis: AI tạo bản tóm tắt có cấu trúc, ghi rõ nguồn hoặc timestamp, sau đó sinh câu hỏi ôn tập để sinh viên kiểm tra mức hiểu.
+AI hypothesis: AI tạo bản tóm tắt, mục lục, mindmap keyword và giải thích nhanh phần khó từ slide; học viên vẫn phải đọc và kiểm tra các định nghĩa, công thức hoặc phần quan trọng trong tài liệu gốc.
 
 Quick gut:
 [ ] No AI / process fix
@@ -171,27 +171,28 @@ Quick gut:
 ```mermaid
 flowchart LR
     subgraph C[CURRENT STATE]
-        C1[Tập hợp slide, video, ghi chú]
-        C2[Đọc/xem từng nguồn]
-        C3[Ghi ý chính]
-        C4[Gộp thành đề cương]
-        C5[Đọc lại và bổ sung]
+        C1[Đăng nhập Vlearn]
+        C2[Chờ tải slide hoặc xử lý lỗi/lag]
+        C3[Đọc word-by-word 50-100 trang]
+        C4[Tra cứu phần khó]
+        C5[Ghi chú và chuẩn bị câu hỏi]
         C1 --> C2 --> C3 --> C4 --> C5
-        C3 -. "bottleneck: chọn lọc và sắp xếp" .-> C4
+        C2 -. "bottleneck: chờ tải" .-> C3
+        C3 -. "bottleneck: đọc dàn trải" .-> C4
     end
 
     subgraph F[FUTURE STATE]
-        F1[Tải tài liệu và chỉ định phạm vi]
-        F2[AI tạo tóm tắt kèm nguồn/timestamp]
-        F3[AI tạo câu hỏi ôn tập]
-        F4[Sinh viên đối chiếu và sửa]
-        F5[Dùng đề cương để ôn]
+        F1[Tải slide về hoặc đưa vào tool]
+        F2[AI tạo tóm tắt, mục lục và mindmap keyword]
+        F3[AI giải thích nhanh phần khó]
+        F4[Học viên đọc theo keyword và tự kiểm phần quan trọng]
+        F5[Ghi câu hỏi mang tới lớp]
         F1 --> F2 --> F3 --> F4 --> F5
         F4:::human
     end
 
-    Fallback[Fallback: quay về template ghi chú và đọc tài liệu gốc]
-    F4 -. "tóm tắt thiếu/sai" .-> Fallback
+    Fallback[Fallback: đọc slide gốc theo tiêu đề/keyword]
+    F4 -. "AI sai hoặc thiếu" .-> Fallback
     classDef human fill:#fff2cc,stroke:#b8860b
 ```
 
